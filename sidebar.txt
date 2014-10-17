@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pgs:home|Door43 (pgs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pgs|d43-pgs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pgs/archive/master.zip|d43-pgs.zip]]
+
+**Recent Changes**
+{{changes>ns = pgs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pgs|Ethnologue data]]
+
